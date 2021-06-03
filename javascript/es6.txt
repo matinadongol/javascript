@@ -1,0 +1,21 @@
+prefer let over var
+const is static
+let can be changed
+
+if you know what property or method to access then use dot notation. or else, use [] notation.
+
+this 
+
+bind == set the value of 'this' permanently
+
+map == rendering list
+
+object destructuring == 
+
+spread operator == {...first, ...second}
+
+classes
+
+inherit  == class teacher extends person
+
+module == import and export, export default
